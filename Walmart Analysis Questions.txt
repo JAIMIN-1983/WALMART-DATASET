@@ -1,0 +1,30 @@
+WALMART ANALYSIS QUESTIONS: (1 file - WalmartSalesData in drive E:)
+
+1. UPDATE TIME INTO MORNING AND AFTERNOON
+2. UPDATE DAYNAME AND MONTHNAME
+3. How many unique cities does the data have?
+4. In which city is each branch?
+5. How many unique product lines does the data have?
+6. What is the most selling product line?
+7. What is the total revenue by month?
+8. Which month had the largest COGS?
+9. Which product line had the largest revenue?
+10. Which is the city with the largest revenue?
+11. Fetch each product line and add a column to those product 
+   line showing "Good", "Bad". Good if its greater than average sales
+12. Which branch sold more products than average product sold?
+13. What is the most common product line by gender?
+14. What is the average rating of each product line?
+15. How many unique customer types does the data have?
+16. How many unique payment methods does the data have?
+17. What is the most common customer type?
+18. What is the gender distribution per branch?
+19. Which time of the day do customers give most ratings?
+20. Which time of the day do customers give most ratings per branch?
+21. Which day fo the week has the best avg ratings?
+22. Which day of the week has the best average ratings per branch?
+23. Number of sales made in each time of the day per weekday 
+24. Which of the customer types brings the most revenue?
+25. Which city has the largest tax/VAT percent?
+26. Which customer type pays the most in VAT?
+ 
